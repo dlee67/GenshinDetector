@@ -1,0 +1,2 @@
+# GenshinDetector
+Much impact.
